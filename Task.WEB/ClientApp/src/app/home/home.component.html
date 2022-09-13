@@ -1,0 +1,20 @@
+<h3 class="d-flex justify-content-center">Stocks Table</h3>
+
+<table class="table table-striped table-dark" aria-labelledby="tableLabel" >
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Name</th>
+      <th>Price</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let Stock of Stocks">
+      <td>{{ Stock.id }}</td>
+      <td>{{ Stock.name }}</td>
+      <td>{{ Stock.price }}</td>
+      <td><button class="btn btn-primary" (click)="stockClicked(Stock)">Make Order</button></td>
+    </tr>
+  </tbody>
+</table>

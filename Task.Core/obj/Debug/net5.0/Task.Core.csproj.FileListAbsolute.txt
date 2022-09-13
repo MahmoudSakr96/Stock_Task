@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\Task\Task.Core\bin\Debug\net5.0\Task.Core.deps.json
+C:\Users\DELL\Desktop\Task\Task.Core\bin\Debug\net5.0\Task.Core.runtimeconfig.json
+C:\Users\DELL\Desktop\Task\Task.Core\bin\Debug\net5.0\Task.Core.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Task\Task.Core\bin\Debug\net5.0\Task.Core.dll
+C:\Users\DELL\Desktop\Task\Task.Core\bin\Debug\net5.0\Task.Core.pdb
+C:\Users\DELL\Desktop\Task\Task.Core\obj\Debug\net5.0\Task.Core.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Task\Task.Core\obj\Debug\net5.0\Task.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Task\Task.Core\obj\Debug\net5.0\Task.Core.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Task\Task.Core\obj\Debug\net5.0\Task.Core.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Task\Task.Core\obj\Debug\net5.0\Task.Core.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Task\Task.Core\obj\Debug\net5.0\Task.Core.dll
+C:\Users\DELL\Desktop\Task\Task.Core\obj\Debug\net5.0\refint\Task.Core.dll
+C:\Users\DELL\Desktop\Task\Task.Core\obj\Debug\net5.0\Task.Core.pdb
+C:\Users\DELL\Desktop\Task\Task.Core\obj\Debug\net5.0\Task.Core.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Task\Task.Core\obj\Debug\net5.0\ref\Task.Core.dll
